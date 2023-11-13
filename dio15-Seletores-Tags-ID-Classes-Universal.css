@@ -15,3 +15,26 @@ p
 {
     color: blueviolet;
 }
+#bem-vindo
+{
+    background: red;
+    color: white;
+}
+#texto-explicacao
+{
+    color: black;
+    background: purple;
+}
+.seletores-mais-comuns
+{
+    background: pink;
+    color: white;
+}
+.texto-maiusculo
+{
+    text-transform: uppercase;
+}
+*
+{
+    font-weight: 550;
+}
