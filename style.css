@@ -1,0 +1,24 @@
+[title]
+{
+    color: violet;
+    background: black;
+}
+[title="Netflix"]
+{
+    background: red;
+    color: white;
+}
+[title="Prime Video"]
+{
+    background: blue;
+    color: white;
+}
+[title~="Musica"]
+{
+    background: yellow;
+    color: darkgreen;
+}
+[href*=".br"]
+{
+    text-transform: uppercase;
+}
