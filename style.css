@@ -1,0 +1,24 @@
+li
+{
+    color: red;
+}
+li li
+{
+    color: green;
+}
+#lista-01 li
+{
+    background: lightblue;
+}
+.fundo-verde li
+{
+    text-transform: uppercase;
+}
+.fundo-azul li
+{
+    text-transform: lowercase;
+}
+.fundo-verde #sublista-01 li
+{
+    color: black;
+}
