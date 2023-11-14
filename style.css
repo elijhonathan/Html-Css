@@ -1,0 +1,12 @@
+div + p
+{
+    color: tomato;
+}
+.fundo-verde + p
+{
+    background: lightgreen;
+}
+div ~ p
+{
+    text-transform: uppercase;
+}
