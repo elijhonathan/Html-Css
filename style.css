@@ -1,0 +1,80 @@
+/* multiply, screen, overlay, darken, lighten, color-dodge, color-burn, hard-light, soft-light, difference, exclusion, hue, saturation, color, luminosity   */
+div
+{
+    margin-bottom: 30px;
+}
+
+.exemplo
+{
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+    border: 15px dashed red;
+    background-repeat: no-repeat;
+    padding: 30px;
+    color: white;
+    font-size: 130px;
+    font-weight: 900;
+    font-weight: central central;
+    background-image: url(https://tse4.mm.bing.net/th/id/OIP.N0O0PIftnUZAXlgmDIGitgHaHa?rs=1&pid=ImgDetMain);
+}
+#multiply
+{
+    background-blend-mode: multiply;
+}
+#screen
+{
+    background-blend-mode: screen;
+}
+#overlay
+{
+    background-blend-mode: overlay;
+}
+#darken
+{
+    background-blend-mode: darken;
+}
+#lighten
+{
+    background-blend-mode: lighten;
+}
+#color-dodge
+{
+    background-blend-mode: color-dodge;
+}
+#color-burn
+{
+    background-blend-mode: color-burn;
+}
+#hard-light
+{
+    background-blend-mode: hard-light;
+}
+#soft-light
+{
+    background-blend-mode: soft-light;
+}
+#difference
+{
+    background-blend-mode: difference;
+}
+#exclusion
+{
+    background-blend-mode: exclusion;
+}
+#hue
+{
+    background-blend-mode: hue;
+}
+#saturation
+{
+    background-blend-mode: saturation;
+}
+#color
+{
+    background-blend-mode: color;
+}
+#luminosity
+{
+    background-blend-mode: luminosity;
+}
