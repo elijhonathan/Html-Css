@@ -8,6 +8,7 @@ body
     width: 200px;
     height: 200px;
     background-color: yellowgreen;
+        /* border 1° width 2° style 3° color  EX: border: 5px solid blue*/ 
     border-style: double dashed solid dotted; /* none, solid, dashed, dotted, double, groove, ridge, inset, outset */
     border-width: 5px 10px 15px 20px ; /* sentido horario, thin, medium, thick */
     border-color: rebeccapurple red black blue;
