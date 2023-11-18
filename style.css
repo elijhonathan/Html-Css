@@ -1,0 +1,14 @@
+body
+{
+    font-family: Robonto, sans-serif;
+}
+
+.exemplo
+{
+    width: 200px;
+    height: 200px;
+    background-color: yellowgreen;
+    border-style: double dashed solid dotted; /* none, solid, dashed, dotted, double, groove, ridge, inset, outset */
+    border-width: 5px 10px 15px 20px ; /* sentido horario, thin, medium, thick */
+    border-color: rebeccapurple red black blue;
+}
