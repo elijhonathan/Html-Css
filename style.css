@@ -1,0 +1,39 @@
+.exemplo
+{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border: 30px solid;
+}
+
+#exemplo-1
+{
+    border-image-source: url(https://www.colegioweb.com.br/wp-content/uploads/2014/06/SOl.jpg);
+}
+#exemplo-2
+{
+    border-image-source: url(https://tse1.mm.bing.net/th/id/OIP.81wWlIZtLTXA9B8YdHmJoQHaE7?rs=1&pid=ImgDetMain);
+    border-image-slice: 20;
+    border-image-width: 10px 15px 20px 25px;
+}
+#exemplo-3
+{
+    border-image-source: url(https://tse3.mm.bing.net/th/id/OIP.b6Ar-JfN-AS-Yi3QY6J_AAAAAA?rs=1&pid=ImgDetMain);
+    border-image-repeat: stretch repeat space round; /* repeat, round, stretch, space*/
+    border-image-slice: 152;
+
+}
+#exemplo-4
+{
+    border-image-source: url(https://www.colegioweb.com.br/wp-content/uploads/2014/06/SOl.jpg);
+    border-image-repeat: repeat;
+    border-image-slice: 152;
+    border-image-outset: 40px;
+}
+#exemplo-5
+{
+    border: 50px solid;
+    border-image-source: url(https://tse3.mm.bing.net/th/id/OIP.b6Ar-JfN-AS-Yi3QY6J_AAAAAA?rs=1&pid=ImgDetMain);
+    border-image-repeat: repeat;
+    border-image-slice: 152;
+}
