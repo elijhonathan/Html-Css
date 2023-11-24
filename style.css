@@ -1,0 +1,13 @@
+#o01
+{
+    width: 600px;
+    height: 600px;
+    border: 10px solid orangered;
+    margin: 20px auto;
+    background: orange;
+    box-shadow: 30px 30px 9px red;
+}
+#dio
+{
+    filter: drop-shadow(30px 30px 9px darkviolet);
+}
