@@ -1,0 +1,27 @@
+#o01
+{
+    width: 200px;
+    height: 200px;
+    border: 10px solid orangered;
+    margin: 20px auto;
+    background: orange;
+    box-shadow: 30px 30px 9px gray;
+}
+#o02
+{
+    width: 400px;
+    height: 200px;
+    border: 10px solid green;
+    margin: 20px auto;
+    background: greenyellow;
+    box-shadow: inset 30px 30px 9px gray;
+}
+#o03
+{
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+    margin: 20px auto;
+    background: violet;
+    box-shadow: inset 30px 30px 9px purple, 50px 65px 15px rebeccapurple;
+}
